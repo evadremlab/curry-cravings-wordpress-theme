@@ -1,0 +1,251 @@
+.page-id-3875 #page_caption {
+  padding-bottom: 0 !important;
+}
+.page-id-3651 .ppb_wrapper.hasbg.notransparent,
+.page-id-3651 #page_content_wrapper.hasbg.notransparent {
+  margin-top: 170px;
+}
+.menu_price {
+  display: inline-block;
+}
+.page_title_wrapper h1 {
+  text-shadow: rgba(0, 0, 0, 0.5) 5px 5px 3px !important;
+}
+.page-id-3695 #page_content_wrapper.hasbg, 
+.page-id-3695 .page_content_wrapper.hasbg,
+.page-id-3698 #page_content_wrapper.hasbg, 
+.page-id-3698 .page_content_wrapper.hasbg { /* Lunch Specials and Catering */
+  margin-top: 238px !important;
+}
+.logo_wrapper img {
+  width: 200px !important;
+}
+#lunch, #catering {
+  font-family: 'Montserrat', 'Helvetica Neue', Arial,Verdana,sans-serif !important;
+}
+#lunch td, #catering td {
+  border-style: none !important;
+  padding: 0 !important;
+  font-weight: 400 !important;
+}
+#lunch td:nth-child(2) {
+  padding-left: 2rem !important;
+}
+#page_content_wrapper .inner .sidebar_content.full_width {
+  padding-top: 0 !important;
+}
+#footer .sidebar_widget.one > li {
+  margin-bottom: 0;
+}
+#ipw-2 table tr th, #ipw-2 table tr td {
+  padding: 0;
+}
+#footer {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.footer_bar {
+  background-color: #0c1e28;
+}
+#footer {
+  background-color: transparent !important;
+}
+.footer_bar_wrapper {
+  display: none !important;
+}
+#footer hr,
+#footer table tr th, #footer table tr td {
+  border-style: none !important;
+}
+.custom_footer_icons a { 
+  font-size: 1.25rem;
+}
+.custom_footer_icons a:first-child { 
+  padding: 0 0.75rem;
+}
+.logo_wrapper {
+  margin: 0;
+}
+.page_slider {
+  top: -120px;
+}
+.home.page .ppb_wrapper,
+.page-id-69 .ppb_wrapper {
+  margin-top: -120px;
+}
+.top_bar, .top_bar.fixed {
+  background-color: rgba(12,30,40,0.8) !important;
+}
+.top_bar #menu_wrapper div .nav li a,
+.top_bar.fixed #menu_wrapper div .nav li a {
+  color: #fff !important;
+}
+.top_bar #menu_wrapper div .nav .sub-menu li a, 
+.top_bar.fixed #menu_wrapper div .nav .sub-menu li a {
+  color: #000 !important;
+}
+div .nav li a { /* menu items */
+  padding: 7px 10px !important;
+}
+.page_slider.menu_transparent {
+  position: relative !important;
+}
+.home.page .rs-layer-static,
+.page-id-69 .rs-layer-static {
+  text-shadow: rgba(0, 0, 0, 0.5) 5px 5px 3px !important;
+}
+.ppb_header_wrapper {
+  text-shadow: rgba(0, 0, 0, 0.5) 5px 5px 3px !important;
+}
+#mobile_nav_icon {
+  border-color: #ccc;
+}
+.page-id-3651 #page_caption {
+  padding-bottom: 0 !important;
+}
+.page-id-3651 .one.withsmallpadding { /* menu page category title */
+  padding: 0;
+  color: red;
+  font-weight: 600;
+  font-size: 1.25rem;
+}
+.page-id-3651 .ppb_menu_simple.one.withpadding {
+  padding: 1rem !important;
+}
+.page-id-3651 .menu_excerpt {
+  color: #777;
+}
+#page_caption { 
+  border-style: none; 
+}
+#page_caption::before { 
+  display: none; 
+}
+.fa-search, #searchform label {
+  color: #fff !important;
+}
+#menu_wrapper .nav ul li a, 
+#menu_wrapper div .nav li a {
+  font-weight: 600;
+}
+#menu_wrapper .nav ul li ul li a, 
+#menu_wrapper div .nav li ul li a, 
+#menu_wrapper div .nav li.current-menu-parent ul li a {
+  font-weight: 600;
+}
+@media only screen and (max-width: 960px) and (min-width: 768px) {
+  .top_bar, .top_bar.fixed {
+    background-color: rgba(12,30,40,0.8) !important;
+  }
+  #footer td {
+    display: block;
+    width: 100% !important;
+  }
+  .page_slider {
+    top: -147px;
+  }
+  .home.page .ppb_wrapper
+  .page-id-69 .ppb_wrapper {
+    margin-top: -147px;
+  }
+  #page-caption h1 {
+    font-size: 60px !important;
+  }
+  .logo_wrapper img {
+    width: 125px !important;
+  }
+  .ppb_wrapper.hasbg, #page_content_wrapper.hasbg.notransparent {
+    margin-top: 50px !important; /* was 0 */
+  }
+  .page-id-2981 .ppb_wrapper.hasbg, 
+  .page-id-2981 #page_content_wrapper.hasbg { /* Reservations */
+    margin-top: 300px !important; /* was 250 */
+  }
+  .page-id-3651 .ppb_wrapper.hasbg.notransparent, 
+  .page-id-3651 #page_content_wrapper.hasbg.notransparent { /* Menu */
+    margin-top: 170px !important; /* was 120 */
+  }
+  .page-id-3695 #page_content_wrapper.hasbg, 
+  .page-id-3695 .page_content_wrapper.hasbg { /* Lunch Specials */
+    margin-top: 210px !important; /* was 160 */
+  }
+  .page-id-3698 #page_content_wrapper.hasbg, 
+  .page-id-3698 .page_content_wrapper.hasbg { /* Catering */
+    margin-top: 190px !important; /* was 140 */
+  }
+}
+@media only screen and (max-width: 767px) {
+  .top_bar, .top_bar.fixed {
+    background-color: rgba(12,30,40,0.8) !important;
+  }
+  #footer td {
+    display: block;
+    width: 100% !important;
+  }
+  .page_slider {
+    top: -136px;
+  }
+  .home.page .ppb_wrapper
+  .page-id-69 .ppb_wrapper {
+    margin-top: -136px;
+  }
+  #page_caption h1 {
+    font-size: 60px !important;
+  }
+  .logo_wrapper img {
+    width: 150px !important;
+  }
+  .ppb_wrapper.hasbg, #page_content_wrapper.hasbg.notransparent {
+    margin-top: 50px !important; /* was 0 */
+  }
+  #page_content_wrapper, 
+  .page_content_wrapper {
+    width: auto !important;
+    padding: 0 1rem !important;
+  }
+  .page-id-2981 #page_content_wrapper.hasbg, 
+  .page-id-2981 .page_content_wrapper.hasbg { /* Reservations */
+    margin-top: 210px !important; /* was 160 */
+  }
+  .page-id-3651 .ppb_wrapper.hasbg.notransparent, 
+  .page-id-3651 #page_content_wrapper.hasbg.notransparent { /* Menu */
+    margin-top: 90px !important; /* was 40 */
+  }
+  .page-id-3651 .ppb_menu_simple.one.withpadding .page_content_wrapper {
+    padding: 0 !important;
+    margin-top: 0 !important;
+  }
+  .page-id-3695 #page_content_wrapper.hasbg, 
+  .page-id-3695 .page_content_wrapper.hasbg { /* Lunch Specials */
+    margin-top: 150px !important; /* was 100 */
+  }
+  #page_caption.hasbg h1 {
+    font-size: 40px !important;
+    margin-top: 105px !important; /* was 145 */
+  }
+  .page-id-3698 #page_content_wrapper.hasbg, 
+  .page-id-3698 .page_content_wrapper.hasbg { /* Catering */
+    margin-top: 130px !important; /* was 80 */
+  }
+  .two_cols.gallery .element {
+    margin-bottom: 0 !important;
+  }
+  .alternate-price {
+    display: none;
+  }
+  .page-id-3651 .portfolio_desc.portfolio1.textleft, 
+  .page-id-3651 .portfolio_desc.portfolio2.textleft, 
+  .page-id-3651 .portfolio_desc.portfolio3.textleft {
+    margin-bottom: 0.5rem !important;
+    padding-bottom: 0 !important;
+  }
+  .page-id-3875 #page_caption h1 {
+    font-size: 42px !important;
+  }
+}
+@media only screen and (max-width: 767px) and (orientation: portrait) {
+  .home.page .rs-layer-static {
+    top: 50px;
+    font-size: 20px !important;
+  }
+}
