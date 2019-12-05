@@ -1,9 +1,23 @@
+#passion-for-cooking-gallery img { /* because with and height on shortcode don't work */
+	width: 220px;
+	height: 220px;
+}
+.portfolio_desc .menu_title {
+	font-weight: 600 !important;
+}
+.portfolio_desc .post_detail {
+  letter-spacing: 0;
+}
 .page-id-3875 #page_caption {
   padding-bottom: 0 !important;
 }
-.page-id-3651 .ppb_wrapper.hasbg.notransparent,
+.page-id-3651.logged-in .ppb_wrapper.hasbg.notransparent, 
+.page-id-3651.logged-in #page_content_wrapper.hasbg.notransparent {
+    margin-top: 180px;
+}
+.page-id-3651 .ppb_wrapper.hasbg.notransparent, 
 .page-id-3651 #page_content_wrapper.hasbg.notransparent {
-  margin-top: 170px;
+    margin-top: 220px;
 }
 .menu_price {
   display: inline-block;
