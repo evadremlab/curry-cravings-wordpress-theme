@@ -1,3 +1,6 @@
+.page-id-2981 #contact_submit_btn { /* reservations page */
+  color: #fff !important;
+}
 #passion-for-cooking-gallery img { /* because with and height on shortcode don't work */
 	width: 220px;
 	height: 220px;
